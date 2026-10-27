@@ -1,4 +1,4 @@
-package com.cznorth.barragepass;
+package io.github.cznorth.barragepass;
 
 import java.lang.reflect.Method;
 

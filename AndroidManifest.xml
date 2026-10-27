@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.cznorth.barragepass" android:versionCode="1" android:versionName="1.0.0">
+    package="io.github.cznorth.barragepass" android:versionCode="2" android:versionName="1.0.1">
     <application android:label="弹幕通知点击穿透" android:hasCode="true">
         <meta-data android:name="xposedmodule" android:value="true" />
         <meta-data android:name="xposeddescription" android:value="游戏助手关掉「弹幕消息回复」和「弹幕屏蔽」后，点到弹幕直接穿透到游戏" />
